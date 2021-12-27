@@ -1,0 +1,6 @@
+
+FC(F)(F)c1cccc(Nc2nc(-c3ccc(Cl)cc3)cs2)c1 CHEMBL1087626
+Oc1ccc(Nc2nc(-c3ccc(Cl)cc3)cs2)cc1 CHEMBL1076555
+Nc1ccc(Nc2nc(-c3ccc(Cl)cc3)cs2)cc1 CHEMBL1080890
+CC(=O)Nc1ccc(Nc2nc(-c3ccc(Cl)cc3)cs2)cc1 CHEMBL1080392
+NC(=O)c1ccc(Nc2nc(-c3ccc(Cl)cc3)cs2)cc1 CHEMBL1076549
